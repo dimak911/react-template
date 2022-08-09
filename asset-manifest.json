@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dimak911/react-template.git/static/css/main.7acaea2f.css",
+    "main.js": "/dimak911/react-template.git/static/js/main.07d3183d.js",
+    "index.html": "/dimak911/react-template.git/index.html",
+    "main.7acaea2f.css.map": "/dimak911/react-template.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/dimak911/react-template.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
