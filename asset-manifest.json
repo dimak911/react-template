@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dimak911/react-template.git/static/css/main.c3d5249d.css",
-    "main.js": "/dimak911/react-template.git/static/js/main.f9b67aa0.js",
-    "index.html": "/dimak911/react-template.git/index.html",
-    "main.c3d5249d.css.map": "/dimak911/react-template.git/static/css/main.c3d5249d.css.map",
-    "main.f9b67aa0.js.map": "/dimak911/react-template.git/static/js/main.f9b67aa0.js.map"
+    "main.css": "/react-template/static/css/main.c3d5249d.css",
+    "main.js": "/react-template/static/js/main.0aed29b9.js",
+    "index.html": "/react-template/index.html",
+    "main.c3d5249d.css.map": "/react-template/static/css/main.c3d5249d.css.map",
+    "main.0aed29b9.js.map": "/react-template/static/js/main.0aed29b9.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.f9b67aa0.js"
+    "static/js/main.0aed29b9.js"
   ]
 }
